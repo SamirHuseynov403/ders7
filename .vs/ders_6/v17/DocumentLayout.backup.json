@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\",
+  "WorkspaceRootPath": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\studentsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|c:\\users\\mehemmed\\desktop\\new folder\\ders7\\ders_6\\studentsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|solutionrelative:ders_6\\studentsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|c:\\users\\mehemmed\\source\\repos\\ders_6\\ders_6\\countvolwandapplydisc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|solutionrelative:ders_6\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\countvolwandapplydisc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|solutionrelative:ders_6\\countvolwandapplydisc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|c:\\users\\mehemmed\\source\\repos\\ders_6\\ders_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|solutionrelative:ders_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73AC797C-4857-4B93-910A-1EA182989908}|ders_6\\ders_6.csproj|solutionrelative:ders_6\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +46,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CountVolwANDApplyDisc.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\CountVolwANDApplyDisc.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\CountVolwANDApplyDisc.cs",
               "RelativeDocumentMoniker": "ders_6\\CountVolwANDApplyDisc.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\CountVolwANDApplyDisc.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\CountVolwANDApplyDisc.cs",
               "RelativeToolTip": "ders_6\\CountVolwANDApplyDisc.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:06:43.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:06:43.359Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentsManagement.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\StudentsManagement.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\StudentsManagement.cs",
               "RelativeDocumentMoniker": "ders_6\\StudentsManagement.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\StudentsManagement.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\StudentsManagement.cs",
               "RelativeToolTip": "ders_6\\StudentsManagement.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAA5wEIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T09:39:08.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\Students.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\Students.cs",
               "RelativeDocumentMoniker": "ders_6\\Students.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\Students.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\Students.cs",
               "RelativeToolTip": "ders_6\\Students.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,16 +84,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\Program.cs",
               "RelativeDocumentMoniker": "ders_6\\Program.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders_6\\ders_6\\Program.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\Desktop\\New folder\\ders7\\ders_6\\Program.cs",
               "RelativeToolTip": "ders_6\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T06:48:13.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:48:13.223Z"
             }
           ]
         }

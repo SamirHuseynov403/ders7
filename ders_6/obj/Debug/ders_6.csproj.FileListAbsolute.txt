@@ -5,3 +5,10 @@ C:\Users\mehemmed\source\repos\ders_6\ders_6\obj\Debug\ders_6.csproj.AssemblyRef
 C:\Users\mehemmed\source\repos\ders_6\ders_6\obj\Debug\ders_6.csproj.CoreCompileInputs.cache
 C:\Users\mehemmed\source\repos\ders_6\ders_6\obj\Debug\ders_6.exe
 C:\Users\mehemmed\source\repos\ders_6\ders_6\obj\Debug\ders_6.pdb
+C:\Users\mehemmed\Desktop\New folder\ders7\ders_6\bin\Debug\ders_6.exe.config
+C:\Users\mehemmed\Desktop\New folder\ders7\ders_6\bin\Debug\ders_6.exe
+C:\Users\mehemmed\Desktop\New folder\ders7\ders_6\bin\Debug\ders_6.pdb
+C:\Users\mehemmed\Desktop\New folder\ders7\ders_6\obj\Debug\ders_6.csproj.AssemblyReference.cache
+C:\Users\mehemmed\Desktop\New folder\ders7\ders_6\obj\Debug\ders_6.csproj.CoreCompileInputs.cache
+C:\Users\mehemmed\Desktop\New folder\ders7\ders_6\obj\Debug\ders_6.exe
+C:\Users\mehemmed\Desktop\New folder\ders7\ders_6\obj\Debug\ders_6.pdb

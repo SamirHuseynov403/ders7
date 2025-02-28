@@ -40,7 +40,7 @@ namespace ders_6
             studentsarray[countAdd] = new Students { Id = id, Name = namestudent, Age = agestudent, Grade = gradestudent };
             countAdd++;
             id++;
-            Console.WriteLine("Student added successfully!");
+            Console.WriteLine(" Student added successfully!");
             Console.WriteLine();
         }
         public void AllStudents()
